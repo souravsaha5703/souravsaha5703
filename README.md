@@ -1,6 +1,6 @@
 ### Hi there 👋 i'm Sourav
 <hr>
-<img alt="Coder GIF" height=800 width=1000 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img alt="Coder GIF" height=800 width=1000 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 <br>
 # 💫 About Me:
 🔭 I’m currently working as a student<br>👯 I’m looking to collaborate on web development<br>🌱 I’m currently learning web development<br>💬 Ask me about tech<br>⚡ Fun fact - I am funny lol
