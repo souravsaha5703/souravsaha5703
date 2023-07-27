@@ -2,6 +2,8 @@
 <hr>
 <img alt="Coder GIF" height=500 width=1000 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 <br>
+[![](https://visitcount.itsvg.in/api?id=souravsaha5703&icon=2&color=8)](https://visitcount.itsvg.in)
+<br>
 💫 About Me:
 <br>
 🔭 I’m currently working as a student<br>👯 I’m looking to collaborate on web development<br>🌱 I’m currently learning web development<br>💬 Ask me about tech<br>⚡ Fun fact - I am funny lol
@@ -27,6 +29,6 @@
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=souravsaha5703&icon=2&color=8)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
