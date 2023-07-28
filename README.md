@@ -1,6 +1,6 @@
 ### Hi there 👋 i'm Sourav
 <hr>
-<img alt="Coder GIF" height=800 width=1000 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<img alt="Coder GIF" height=500 width=1000 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 <br>
 💫 About Me:
 <br>
